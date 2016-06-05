@@ -8,6 +8,8 @@
  * This file is licensed under the terms of the GNU General Public
  * License version 3. This program is licensed "as is" without any
  * warranty of any kind, whether express or implied.
+ * 
+ *Dieses Git wird verwendet um ggf. anpassungen des PID für einen Gasbrenner als Heizung vornehmen zu können
  */
 #include "mainwindow.h"
 #include <QApplication>
